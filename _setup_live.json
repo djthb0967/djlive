@@ -1,0 +1,13 @@
+{
+	"version": "1.0.1",
+	"displayCache": "2022-07-18 12:00:00",
+	"domainCache": "2022-07-18 12:00:00",
+    "gameCache": "2022-07-18 12:00:00",
+	"android": {
+		"switchId":"ma.live",
+		"domain": "https://lhj.life/",
+		"id": "6gw4dtwwyjkmsb",
+		"version": "4.2.18",
+		"feedbackPhotoPathDomain":"https://ddj118.info"
+	}
+}
