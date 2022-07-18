@@ -4,10 +4,10 @@
 	"domainCache": "2022-07-18 12:00:00",
     "gameCache": "2022-07-18 12:00:00",
 	"android": {
-		"switchId":"ma.live",
+		"switchId":"ma.dj",
 		"domain": "https://lhj.life/",
-		"id": "6gw4dtwwyjkmsb",
-		"version": "4.2.18",
+		"id": "pl5989j4v34e9d",
+		"version": "3.2.23",
 		"feedbackPhotoPathDomain":"https://ddj118.info"
 	}
 }
